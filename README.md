@@ -1,5 +1,4 @@
 # **EDSA - Sendy Logistics Challenge**
-
  *by EXPLORE Data Science Academy*
 ---
 
@@ -40,9 +39,13 @@ git add .
 git commit -m "comment on changes"
 git pull
 ```
-4. To push your changes to the online repo use: **NB** Task_Name is the your branch name.
+4. To push your changes to the online repo use: 
+**NB** replace Task_Name with  the  branch name you created.
 ```git
 git push --set-upstream origin Task_Name 
 ```
+
+5. If task is complete and you wish to merge the work to the **Dev** branch.
+create a pull request for review using the web-based github.
 
 **if you come across any dificulties, just create an issue and one of the team members will assist**
