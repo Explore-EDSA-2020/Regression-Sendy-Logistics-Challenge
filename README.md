@@ -13,6 +13,7 @@ Logistics in Sub-Saharan Africa increases the cost of manufactured goods by up t
 *THE FOLLOWING STEPS ASSUMES THAT YOU HAVE ANACONDA INSTALLED OR ANY JUPYTER RELATED SOFTWARE*
 ---
 
+**development branch** = dev
 
 1. clone the repo to your local machine:
 ```git
